@@ -40,7 +40,7 @@ const LandingPage = () => {
       
       {/* Logo */}
       <div className="logo-container">
-        <img src={`${process.env.PUBLIC_URL}/logo.png`} alt="Logo" className="logo" />
+        <img src={`${process.env.PUBLIC_URL}/images/logo.png`} alt="Logo" className="logo" />
       </div>
       
       <div className="content">
