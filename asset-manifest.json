@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/phucanhome/static/css/main.41a83f07.css",
-    "main.js": "/phucanhome/static/js/main.5eb0ce55.js",
-    "index.html": "/phucanhome/index.html",
-    "main.41a83f07.css.map": "/phucanhome/static/css/main.41a83f07.css.map",
-    "main.5eb0ce55.js.map": "/phucanhome/static/js/main.5eb0ce55.js.map"
+    "main.css": "/static/css/main.41a83f07.css",
+    "main.js": "/static/js/main.27dfda4d.js",
+    "index.html": "/index.html",
+    "main.41a83f07.css.map": "/static/css/main.41a83f07.css.map",
+    "main.27dfda4d.js.map": "/static/js/main.27dfda4d.js.map"
   },
   "entrypoints": [
     "static/css/main.41a83f07.css",
-    "static/js/main.5eb0ce55.js"
+    "static/js/main.27dfda4d.js"
   ]
 }
