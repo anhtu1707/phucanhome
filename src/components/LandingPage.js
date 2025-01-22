@@ -34,7 +34,7 @@ const LandingPage = () => {
         preload="auto"
         className="background-video"
       >
-        <source src="https://drive.google.com/file/d/1_9UbSdhpleFwBEVrZ4new6Knk9VhlMbT/review"/>
+        <source src="www.dailymotion.com/embed/video/k2IpnFGMwiAITvChy54"/>
         Trình duyệt của bạn không hỗ trợ video tag.
       </video>
       
