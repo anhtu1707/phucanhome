@@ -34,7 +34,7 @@ const LandingPage = () => {
         preload="auto"
         className="background-video"
       >
-        <source src="www.dailymotion.com/embed/video/k2IpnFGMwiAITvChy54"/>
+        <source src="https://dai.ly/k2IpnFGMwiAITvChy54"/>
         Trình duyệt của bạn không hỗ trợ video tag.
       </video>
       
