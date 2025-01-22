@@ -34,7 +34,7 @@ const LandingPage = () => {
         preload="auto"
         className="background-video"
       >
-        <source src="https://phucansolutions.vn/wp-content/uploads/2023/12/phucan.mp4" type="video/mp4" />
+        <source src="https://phucansolutions.vn/wp-content/uploads/2023/12/phucan.mp4" type="video/mp4"/>
         Trình duyệt của bạn không hỗ trợ video tag.
       </video>
       
